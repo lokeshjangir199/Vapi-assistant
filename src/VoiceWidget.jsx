@@ -227,7 +227,7 @@ const VoiceWidget = () => {
 
       script.onload = () => {
         window.vapiSDK.run({
-          apiKey: "a5ebab87-088e-4426-8de2-a3ff4a684659",
+          apiKey: "e463809f-6553-401c-a53d-ffcad427aaa1",
           assistant: {
             model: {
               provider: "openai",
